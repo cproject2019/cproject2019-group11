@@ -1,0 +1,14 @@
+﻿生成启动时间为 2019/7/7 18:01:38。
+     1>项目“C:\Users\28424\Desktop\GDS Music  Player\GDS - 副本\gds\gds.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /Od /D COBJMACROS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\gds.pdb" /Gd /TC /errorReport:prompt gds.c
+         gds.c
+     1>c:\users\28424\desktop\gds music  player\gds - 副本\gds\gds.c(444): warning C4013: “IMediaSeeking_Getendposition”未定义；假设外部返回 int
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\28424\Desktop\GDS Music  Player\GDS - 副本\x64\Debug\gds.lib" /NOLOGO /MACHINE:X64 x64\Debug\gds.obj
+         gds.vcxproj -> C:\Users\28424\Desktop\GDS Music  Player\GDS - 副本\x64\Debug\gds.lib
+     1>已完成生成项目“C:\Users\28424\Desktop\GDS Music  Player\GDS - 副本\gds\gds.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:06.96
